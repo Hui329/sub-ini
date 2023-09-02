@@ -4,6 +4,7 @@ payload:
 #  - PROCESS-NAME,electron.exe
   - DOMAIN-KEYWORD,emby
   - DOMAIN-KEYWORD,misakaf
+  - DOMAIN-KEYWORD,jmsooo
   - DOMAIN-SUFFIX,emby.riches.cloud
   - DOMAIN-SUFFIX,emby.misakaf.xyz
   - DOMAIN-SUFFIX,embyaz.misakaf.xyz
@@ -19,5 +20,6 @@ payload:
   - DOMAIN-SUFFIX,888.881075.xyz
   - DOMAIN-SUFFIX,alist-proxy.agon.cf
   - DOMAIN-SUFFIX,cdn.misakaf.org
-  - DOMAIN-SUFFIX,cf.jmsooo.com
+  - DOMAIN-SUFFIX,jms2.emby.pro
   - IP-CIDR,161.97.148.156/24,no-resolve
+  - IP-CIDR,154.40.50.5/32,no-resolve
