@@ -21,5 +21,6 @@ payload:
   - DOMAIN-SUFFIX,alist-proxy.agon.cf
   - DOMAIN-SUFFIX,cdn.misakaf.org
   - DOMAIN-SUFFIX,jms2.emby.pro
+  - IP-CIDR,202.61.203.218/32,no-resolve
   - IP-CIDR,161.97.148.156/24,no-resolve
   - IP-CIDR,154.40.50.5/32,no-resolve
