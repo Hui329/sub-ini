@@ -5,6 +5,7 @@ payload:
   - DOMAIN-KEYWORD,emby
   - DOMAIN-KEYWORD,misakaf
   - DOMAIN-KEYWORD,jmsooo
+  - DOMAIN-KEYWORD,xmsl
   - DOMAIN-SUFFIX,emby.riches.cloud
   - DOMAIN-SUFFIX,emby.misakaf.xyz
   - DOMAIN-SUFFIX,embyaz.misakaf.xyz
@@ -21,6 +22,7 @@ payload:
   - DOMAIN-SUFFIX,alist-proxy.agon.cf
   - DOMAIN-SUFFIX,cdn.misakaf.org
   - DOMAIN-SUFFIX,jms2.emby.pro
+  - DOMAIN-SUFFIX,789.123456.al
   - IP-CIDR,202.61.203.218/32,no-resolve
   - IP-CIDR,161.97.148.156/24,no-resolve
   - IP-CIDR,154.40.50.5/32,no-resolve
